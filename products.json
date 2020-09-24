@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "a product",
+    "price": "123",
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAwCAYAAABuZUjcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABSSURBVGhD7c6xDcAwDMAwN///3HbIDQIMkItWPe9vFjq36xivGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGW/NfNdqBFz8htyPAAAAAElFTkSuQmCC",
+    "id": "08d06fc4"
+  },
+  {
+    "title": "a product",
+    "price": "123",
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAwCAYAAABuZUjcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABSSURBVGhD7c6xDcAwDMAwN///3HbIDQIMkItWPe9vFjq36xivGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGa8ZrxmvGW/NfNdqBFz8htyPAAAAAElFTkSuQmCC",
+    "id": "7264403f"
+  }
+]
