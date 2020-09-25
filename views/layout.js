@@ -19,10 +19,10 @@ module.exports = ({ content }) => {
               <div>
                 <ul class="social">
                   <li>
-                    <a href=""><i class="fa fa-phone"></i>+1 555 987 6543</a>
+                    <a href=""><i class="fa fa-phone"></i>+38349154442</a>
                   </li>
                   <li>
-                    <a href=""><i class="fa fa-envelope"></i> shop@myshop.com</a>
+                    <a href=""><i class="fa fa-envelope"></i> xhevdet1996@gmail.com</a>
                   </li>
                 </ul>
               </div>
